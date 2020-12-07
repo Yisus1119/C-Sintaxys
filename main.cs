@@ -18,9 +18,9 @@ double  numberD = 10.15;
 bool quezada = true;
 bool gonzales = false;
 
-long cifra = 2,170;
+long cifra = 220;
 
-char falso = 0;
+char inicial = 'J';
 
 Console.WriteLine("El resultado es: "+rs);
 
@@ -43,7 +43,7 @@ Console.WriteLine("El nombre ingresado fue: "+rdname);
 
 //casteo de variables en csharp
 
-int myInt = 20;
+int MyInt = 20;
 double MyDouble = 5.25;
 bool MyBool = true;
 
